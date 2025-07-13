@@ -2,8 +2,11 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>
-         Home page
+    <div className='h-full bg-[#F6F7F9]'>
+          {/* // This is the Home page components  */}
+          <div className='h-screen'>
+                 
+          </div>
     </div>
   )
 }
