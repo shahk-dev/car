@@ -4,9 +4,9 @@ function Home() {
   return (
     <div className='h-full bg-[#F6F7F9]'>
           {/* // This is the Home page components  */}
-          <div className='h-screen'>
-                 
-          </div>
+          <section className='h-screen'>
+                  
+          </section>
     </div>
   )
 }
